@@ -1,4 +1,4 @@
-- 👯 I’m looking to contribute on [spring-cloud](https://github.com/spring-cloud/spring-cloud-commons) also looking for other open source projects.
+- 👯 I’m contributing on [spring-cloud](https://github.com/spring-cloud/spring-cloud-commons) also looking for other open source projects.
 
 - 📝 I regularly write articles on [https://medium.com/@omernaci](https://medium.com/@omernaci)
 
