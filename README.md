@@ -1,4 +1,4 @@
-- 👯 I’m looking to collaborate on [spring-cloud](https://github.com/spring-cloud/spring-cloud-commons) also looking for other open source projects.
+- 👯 I’m looking to collaborate on [spring-cloud](https://github.com/spring-cloud/spring-cloud-commons) and [apache-shenyu](https://github.com/apache/shenyu)  also looking for other open source projects.
 
 - 📝 I regularly write articles on [https://medium.com/@omernaci](https://medium.com/@omernaci)
 
